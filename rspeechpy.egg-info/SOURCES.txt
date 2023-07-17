@@ -1,0 +1,11 @@
+README.md
+setup.py
+rspeechpy/__init__.py
+rspeechpy/__main__.py
+rspeechpy/voices_list.json
+rspeechpy/voices_list_plus.json
+rspeechpy.egg-info/PKG-INFO
+rspeechpy.egg-info/SOURCES.txt
+rspeechpy.egg-info/dependency_links.txt
+rspeechpy.egg-info/requires.txt
+rspeechpy.egg-info/top_level.txt
